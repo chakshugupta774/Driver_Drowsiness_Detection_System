@@ -1,0 +1,27 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment folders
+env/
+venv/
+whatsapp_env/
+DDD/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.o
+*.out
+*.exe
+
+# Ignore VS Code settings
+.vscode/
+
+file/
+
+image.jpg

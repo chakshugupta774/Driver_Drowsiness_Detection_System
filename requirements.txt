@@ -1,0 +1,8 @@
+keras
+tensorflow
+matplotlib
+numpy
+pillow
+SciPy
+opencv-python==3.4.13.47
+pygame
